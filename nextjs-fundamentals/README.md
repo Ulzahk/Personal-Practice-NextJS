@@ -12,3 +12,11 @@
 6. `npm run dev`
 7. `npm run build`
 8. `npm run start`
+
+### Debugging
+
+1. `npm run dev:debug`
+2. In Google Chrome type `about:inspect`
+3. Click link to inspect
+4. In the terminal you need to see the message `Debugger attached`
+5. Put a break point and try it.

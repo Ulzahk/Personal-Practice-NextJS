@@ -11,4 +11,4 @@ const allAvos = async (request: IncomingMessage, response: ServerResponse) => {
   response.end(JSON.stringify({ data: allEntries, length }))
 }
 
-export default allAvos
+export default allAvos;

@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
+    "dev:debug": "NODE_OPTIONS='--inspect' next",
     "build": "next build",
     "start": "next start",
     "prettier": "prettier --write .",
