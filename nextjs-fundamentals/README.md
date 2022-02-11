@@ -21,3 +21,9 @@
 3. Click link to inspect
 4. In the terminal you need to see the message `Debugger attached`
 5. Put a break point and try it.
+
+### Deploy
+
+1. With only one project in the repository
+2. Import the project to Vercel
+3. Remember to add authorization to use the repository and select NextJS Framework
