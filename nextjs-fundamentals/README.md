@@ -12,6 +12,7 @@
 6. `npm run dev`
 7. `npm run build`
 8. `npm run start`
+9. `npm i cors @types/cors isomorphic-unfetch semantic-ui-css semantic-ui-react`
 
 ### Debugging
 
